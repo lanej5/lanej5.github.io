@@ -32,7 +32,7 @@
 
 [7] Lane. The geometric structure of symplectic contraction. International Mathematics Research Notices. 2020.
 
-[8] Lane. The U(n) Gelfand–Zeitlin system as a tropical limit of Ginzburg–Weinstein diffeomorphisms. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences. 2018.
+[8] Alekseev, Lane, Li. The U(n) Gelfand–Zeitlin system as a tropical limit of Ginzburg–Weinstein diffeomorphisms. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences. 2018.
 
 [9] Lane. Convexity and Thimm’s trick. Transformation Groups. 2018.
 
