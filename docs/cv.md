@@ -1,4 +1,7 @@
-## Curriculum Vitae: Jeremy Lane
+# [Jeremy Lane](https://lanej5.github.io/)
+
+
+## Curriculum Vitae
 
 
 ### Experience
@@ -38,8 +41,7 @@
 
 [10] Lane. Topological monodromy of an integrable Heisenberg spin chain. SIGMA Symmetry, Integrability and Geometry: Methods and Applications. 2015.
 
-- [Google Scholar](https://scholar.google.ca/citations?user=atcyxVwAAAAJ&hl=en)
-- [ArXiv](https://arxiv.org/a/lane_j_2.html)
+[Google Scholar](https://scholar.google.ca/citations?user=atcyxVwAAAAJ&hl=en), [ArXiv](https://arxiv.org/a/lane_j_2.html)
 
 
 ## Selected Conference and Seminar Presentations
@@ -56,3 +58,7 @@
 - Finite dimensional systems in geometry and mathematical physics, Shanghai Jiao Tong University. 2019.
 - Workshop on cluster algebras, crystal bases, and Poisson geometry, University of Hong Kong. 2018.
 - Geometric aspects of momentum maps and integrability, Switzerland. 2018.
+
+---
+
+[Github](https://github.com/lanej5), [ArXiv](https://arxiv.org/a/lane_j_2.html), [Google scholar](https://scholar.google.ca/citations?user=atcyxVwAAAAJ&hl=en), [LinkedIn](https://linkedin.com/in/lanej5)
