@@ -7,7 +7,7 @@
 - **Postdoctoral Fellow: Geometry and Topology**, McMaster University, Department of Mathematics and Statistics, Hamilton, ON. *Sept 2019 -- Aug 2022*
 - **Postdoctoral Fellow**, The Fields Institute for Research in Mathematical Sciences, Toronto, ON. *Jan 2020 -- June 2020*
 - **Postdoctoral Fellow**, University of Geneva, Section of Mathematics, Geneva, Switzerland. *Sept 2017 -- Aug 2019*
-- **Course Instructor and Course Coordinator.** University of Toronto, Department of Mathematics. *Sept 2015 -- April 2019*
+- **Course Instructor and Course Coordinator.** University of Toronto, Department of Mathematics. *Summer 2015 -- Spring 2019*
 
 ### Education
 
