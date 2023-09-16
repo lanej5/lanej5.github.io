@@ -20,5 +20,4 @@ My research has generalized this result to arbitrary compact Lie groups and draw
 
 - [arXiv](https://arxiv.org/a/lane_j_2.html)
 - [Google scholar](https://scholar.google.ca/citations?user=atcyxVwAAAAJ&hl=en)
-)
 - [LinkedIn](https://linkedin.com/in/lanej5)
