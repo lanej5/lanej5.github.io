@@ -1,6 +1,6 @@
 # Jeremy Lane
 
-Hi! I'm a mathematician and applied scientist. This is my central web presence for research, work, and projects.
+Hi! I'm a mathematician and applied scientist.
 
 - [Curriculum Vitae](cv.md)
 - [Contact Me](mailto:lane203j@gmail.com)
