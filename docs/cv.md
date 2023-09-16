@@ -1,6 +1,5 @@
-# Jeremy Lane: Curriculum Vitae
+# Curriculum Vitae
 
-[Home](https://lanej5.github.io/)
 
 ## Experience
 
