@@ -52,7 +52,7 @@
 - Workshop on Torus Actions in Topology, The Fields Institute. 2020.
 - Lie Groups Seminar,  Cornell University. 2020.
 - Geometry, Physics, and Representation Theory Seminar, Northeastern University. 2020.
-- Toric Topology Research Seminar, Fields Institute. 2020.
+- Toric Topology Research Seminar, The Fields Institute. 2020.
 - Finite dimensional systems in geometry and mathematical physics, Shanghai Jiao Tong University. 2019.
 - Workshop on cluster algebras, crystal bases, and Poisson geometry, University of Hong Kong. 2018.
 - Geometric aspects of momentum maps and integrability, Switzerland. 2018.
