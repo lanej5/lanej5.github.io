@@ -44,7 +44,7 @@
 
 ## Selected Conference and Seminar Presentations
 
-- Minicourse on Gelfand-Tsetlin systems and Poisson-Lie groups}, NRU HSE Moscow. 2021.
+- Minicourse on Gelfand-Tsetlin systems and Poisson-Lie groups, NRU HSE Moscow. 2021.
 - Edinburgh Geometry (EDGE) seminar, Edinburgh Hodge Institute. 2021. 
 - Topology and Geometry seminar, Imperial College London. 2020. 
 - Symplectic and Poisson geometry Seminar, University of Illinois at Urbana-Champaign. 2020. 
