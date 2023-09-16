@@ -1,6 +1,6 @@
 ## Jeremy Lane
 
-Hi! I am a mathematician and applied scientist. This is my central web presence for research, work, and projects.
+Hi! I'm a mathematician and applied scientist. This is my central web presence for research, work, and projects.
 
 - [Curriculum Vitae](cv.md)
 - [Contact Me](mailto:lane203j@gmail.com)
@@ -13,7 +13,7 @@ Remarkably, geometric quantization of these integrable systems recovers canonica
 
 The first example of this phenomenon was observed by Guillemin and Sternberg in the early 1980s. 
 They showed that the Gelfand-Zeitlin canonical basis of a unitary representation can be obtained by geometric quantization of a certain integrable system on unitary coadjoint orbits. 
-My research has generalized this result to arbitrary compact Lie groups and drawn connections with other domains, such as tropicalization of Lie brackets and Ginzburg-Weistein isomorphisms. 
+My research has generalized this result to arbitrary compact Lie groups.
   
 
 ### Other Places You Can Find Me on The Web
