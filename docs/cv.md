@@ -1,5 +1,7 @@
 # Jeremy Lane: Curriculum Vitae
 
+[Home](https://lanej5.github.io/)
+
 ## Experience
 
 - **Applied Scientist II**, Amazon Ads, New York, NY. *Aug 2022 -- Current.*
