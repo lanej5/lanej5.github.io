@@ -15,4 +15,4 @@ Remarkably, geometric quantization of these integrable systems recovers canonica
 
 ---
 
-[Github](https://github.com/lanej5), [ArXiv](https://arxiv.org/a/lane_j_2.html), [Google scholar](https://scholar.google.ca/citations?user=atcyxVwAAAAJ&hl=en), [LinkedIn](https://linkedin.com/in/lanej5)
+[Github](https://github.com/lanej5), [ArXiv](https://arxiv.org/a/lane_j_2.html), [Google Scholar](https://scholar.google.ca/citations?user=atcyxVwAAAAJ&hl=en), [LinkedIn](https://linkedin.com/in/lanej5)
