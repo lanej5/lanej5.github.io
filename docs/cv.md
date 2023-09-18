@@ -44,7 +44,7 @@
 [Google Scholar](https://scholar.google.ca/citations?user=atcyxVwAAAAJ&hl=en), [ArXiv](https://arxiv.org/a/lane_j_2.html)
 
 
-## Selected Conference and Seminar Presentations
+### Selected Conference and Seminar Presentations
 
 - Minicourse on Gelfand-Tsetlin systems and Poisson-Lie groups, NRU HSE Moscow. 2021.
 - Edinburgh Geometry (EDGE) seminar, Edinburgh Hodge Institute. 2021. 
