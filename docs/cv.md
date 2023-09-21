@@ -27,8 +27,8 @@
     - 3.96 GPA
 - **BSc Hons, Mathematics** University of Regina, SK. *Summer 2012*
     - Published research paper on homological algebra.
-    - NSERC Undergraduate Student Research Award recipient, studying hyperelliptic surfaces.
-    - Student researcher at TRIUMF particle accelerator, developing Monte Carlo simulations of photon detectors in C++.
+    - NSERC Undergraduate Student Research Award recipient. Wrote monograph on hyperelliptic surfaces.
+    - Student researcher at TRIUMF particle accelerator. Developed Monte Carlo simulations of photon detectors with C++ and ROOT.
     - 4.0 GPA
 
 ### Selected Research Papers
