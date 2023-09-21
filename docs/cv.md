@@ -20,7 +20,6 @@
 - **PhD, Mathematics** University of Toronto, Toronto, ON. *Spring 2017*
     - Advisor: Prof. Yael Karshon. 
     - Thesis title: On the topology of collective integrable systems.
-cal Mathematics
 - **MSc, Mathematics** University of Toronto, Toronto, ON. *Summer 2013*
 - **BSc Hons, Mathematics** University of Regina, SK. *Summer 2012*
 
