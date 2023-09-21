@@ -8,11 +8,11 @@
 
 - **Applied Scientist II**, Amazon Ads, New York, NY. *Aug 2022 -- Current*
 - **Postdoctoral Fellow: Geometry and Topology**, McMaster University, Department of Mathematics and Statistics, Hamilton, ON. *Sept 2019 -- Aug 2022*
-    - Advisor: Prof.~Megumi Harada.
+    - Advisor: Prof. Megumi Harada.
 - **Postdoctoral Fellow**, The Fields Institute for Research in Mathematical Sciences, Toronto, ON. *Jan 2020 -- June 2020*
     - Cross-appointed with McMaster for the [Thematic Program on Toric Topology and Polyhedral Products](http://www.fields.utoronto.ca/activities/19-20/toric).
 - **Postdoctoral Fellow**, University of Geneva, Section of Mathematics, Geneva, Switzerland. *Sept 2017 -- Aug 2019*
-    - Advisor: Prof.~Anton Alekseev.
+    - Advisor: Prof. Anton Alekseev.
 - **Course Instructor and Course Coordinator.** University of Toronto, Department of Mathematics. *Summer 2015 -- Spring 2019*
 
 ### Education
@@ -65,9 +65,19 @@ cal Mathematics
 - Workshop on cluster algebras, crystal bases, and Poisson geometry, University of Hong Kong. 2018.
 - Geometric aspects of momentum maps and integrability, Switzerland. 2018.
 
+### Leadership
+
+- **Workshop Organization** Organized an [online international research workshop](http://www.fields.utoronto.ca/activities/19-20/lie-theory) with 25 speakers and more than 200 registered
+participants in 2 months in response to conference cancellations at the beginning of the covid-19 pandemic. Secured support from the Fields Institute. 
+- Chaired research seminars and organized learning seminars at the University of Geneva.
+
+---
+
+Under construction
+
 ### Grants and Awards
 
-- 
+- Under construction
 
 ### Teaching
 
@@ -77,7 +87,7 @@ cal Mathematics
 - Vector Calculus. 
 - Calculus.
 - Linear Algebra. 
-- 
+- Differential equations.
 
 ---
 
