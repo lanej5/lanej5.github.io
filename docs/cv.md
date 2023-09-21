@@ -20,10 +20,10 @@
 - **PhD, Mathematics** University of Toronto, Toronto, ON. *Spring 2017*
     - Advisor: Prof. Yael Karshon. 
     - Thesis title: On the topology of collective integrable systems.
-    - NSERC Postgraduate Scholarship, $63,000.
+    - NSERC Postgraduate Scholarship and Ontario Graduate Scholarships totalling $78,000 CAD.
     - 4.0 GPA
 - **MSc, Mathematics** University of Toronto, Toronto, ON. *Summer 2013*
-    - NSERC Postgraduate Scholarship, $17,500.
+    - NSERC Postgraduate Scholarship, $17,500 CAD.
     - 3.96 GPA
 - **BSc Hons, Mathematics** University of Regina, SK. *Summer 2012*
     - Published research paper on homological algebra.
