@@ -20,13 +20,15 @@
 - **PhD, Mathematics** University of Toronto, Toronto, ON. *Spring 2017*
     - Advisor: Prof. Yael Karshon. 
     - Thesis title: On the topology of collective integrable systems.
+    - NSERC Postgraduate Scholarship, $63,000.
     - 4.0 GPA
 - **MSc, Mathematics** University of Toronto, Toronto, ON. *Summer 2013*
+    - NSERC Postgraduate Scholarship, $17,500.
     - 3.96 GPA
 - **BSc Hons, Mathematics** University of Regina, SK. *Summer 2012*
-    - 4.0 GPA
     - NSERC Undergraduate Student Research Award recipient, studying hyperelliptic surfaces.
     - Student researcher at TRIUMF particle accelerator, developing Monte Carlo simulations of photon detectors in C++.
+    - 4.0 GPA
 
 ### Selected Research Papers
 
