@@ -59,14 +59,16 @@
 
 ### Selected Conference and Seminar Presentations
 
-- Minicourse on Gelfand-Tsetlin systems and Poisson-Lie groups, NRU HSE Moscow. 2021.
+- [Minicourse on Gelfand-Tsetlin systems and Poisson-Lie groups](https://sites.google.com/view/poissonrep2021/home), NRU HSE Moscow. 2021.
 - Edinburgh Geometry (EDGE) seminar, Edinburgh Hodge Institute. 2021. 
 - Topology and Geometry seminar, Imperial College London. 2020. 
-- Symplectic and Poisson geometry Seminar, University of Illinois at Urbana-Champaign. 2020. 
-- Algebraic Topology Seminar, Princeton. 2020.
-- Workshop on Torus Actions in Topology, The Fields Institute. 2020.
-- Lie Groups Seminar,  Cornell University. 2020.
-- Geometry, Physics, and Representation Theory Seminar, Northeastern University. 2020.
+- [Symplectic and Poisson geometry Seminar](https://sites.google.com/view/jpalmer/spg-seminar), University of Illinois at Urbana-Champaign. 2020. 
+- [Algebraic Topology Seminar](https://www.math.princeton.edu/events/canonical-bases-toric-degenerations-and-collective-integrable-systems-2020-11-12t180000), Princeton. 2020.
+- [Workshop on Torus Actions in Topology](http://www.fields.utoronto.ca/activities/19-20/toric-torus), The Fields Institute. 2020.
+- [Gone Fishing Meeting on Poisson Geometry](https://sites.google.com/georgiasouthern.edu/gonefishing2020). Georgia Southern University.
+- [Lie Groups Seminar](https://pi.math.cornell.edu/m/event-list-p/liegroups),  Cornell University. 2020.
+- [Geometry, Physics, and Representation Theory Seminar](mathserver.neu.edu/~robin/Seminars/GPRT/index.html), Northeastern University. 2020.
+-  [Geometry and Physics Seminar](https://cmsa.fas.harvard.edu/event/7-7-2020-geometry-and-physics-seminar/), Center Of Mathematical Sciences And Applications, Harvard.
 - Toric Topology Research Seminar, The Fields Institute. 2020.
 - Finite dimensional systems in geometry and mathematical physics, Shanghai Jiao Tong University. 2019.
 - Workshop on cluster algebras, crystal bases, and Poisson geometry, University of Hong Kong. 2018.
@@ -76,7 +78,9 @@
 
 - **Workshop Organization** Organized an [online international research workshop](http://www.fields.utoronto.ca/activities/19-20/lie-theory) with 25 speakers and more than 200 registered
 participants in 2 months in response to conference cancellations at the beginning of the covid-19 pandemic. Secured support from the Fields Institute. 
-- Chaired research seminars and organized learning seminars at the University of Geneva.
+- Chaired and organized research seminars at the University of Toronto, University of Geneva, and the Fields Institute.
+- Delivered 1 week graduate+ level minicourse at HSE NSU Moscow. Webpage: https://sites.google.com/view/poissonrep2021/home.
+- Speaker at Canada Math Camp, University of Toronto.  2015 and 2016.
 
 ---
 
