@@ -79,24 +79,20 @@
 - Algebraic Structures in Topology and Geometry (conference), Riederalp, Switzerland. 2018.
 - Symplectic Seminar. Centre Interuniversitaire de Recherches Géométrie et Topologie, Montreal. 2018.
 - Symplectic Geometry Seminar, University of Toronto. 2018.
-- Interactions between symplectic geometry, combinatorics, and number theory (seminar), University of
-Cologne. 2018.
+- Interactions between symplectic geometry, combinatorics, and number theory (seminar), University of Cologne. 2018.
 - Canadian Mathematical Society Winter Meeting. 2016.
 - Integrable Systems, Ascona, Switzerland. 2016.
 - Topology seminar, Cornell University. 2016.
 - Canadian Mathematical Society Winter Meeting. 2015.
-- Workshop on Recent Developments in the Geometry and Combinatorics of Hessenberg Varieties, The Fields
-Institute. 2015.
+- Workshop on Recent Developments in the Geometry and Combinatorics of Hessenberg Varieties, The Fields Institute. 2015.
 - Canadian Mathematical Society Winter Meeting. 2014.
 
 ### Leadership and Volunteer Work
 
 - **2020 - 2021** Supervised an undergraduate Summer research project resulting in [a publication](https://msp.org/involve/2022/15-5/involve-v15-n5-p04-p.pdf).
-- **2020** Organized an [online international research workshop](http://www.fields.utoronto.ca/activities/19-20/lie-theory) with 25 speakers and more than 200 registered
-participants in 2 months in response to conference cancellations at the beginning of the covid-19 pandemic. Secured support from the Fields Institute. 
+- **2020** Organized an [online international research workshop](http://www.fields.utoronto.ca/activities/19-20/lie-theory) with 25 speakers and more than 200 registered participants in 2 months in response to conference cancellations at the beginning of the covid-19 pandemic. Secured support from the Fields Institute. 
 - **2015 - 2020** Chaired and organized research seminars at the University of Toronto, University of Geneva, and the Fields Institute.
 - **2015, 2016** Lead learning sessions at Canada Math Camp, University of Toronto.
-
 - **2009 - 2012** Volunteer and executive of the  University of Regina chapter of Engineers Without Borders Canada.
 
 ### Teaching
