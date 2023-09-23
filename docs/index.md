@@ -6,7 +6,7 @@
 ## About Me
 
 I'm a mathematician and applied scientist. 
-After my PhD I spent 5 years as a postdoctoral researcher in academia. Since 2022 I've been working at Amazon as an applied scientist.
+After my PhD I spent 5 years as a postdoctoral researcher in academia. Since 2022 I've been working at Amazon.
 
 
 ## Machine Learning and Data Science
