@@ -13,7 +13,7 @@ After my PhD I spent 5 years as a postdoctoral researcher in academia. Since 202
 
 At Amazon I've worked problems ranging from time series modelling, clustering, causal inference, recommender systems, graph search, panel data, survey design, and predictive ad targeting. 
 
-In my first year I independently delivered a scalable, end-to-end ML system for ad targeting through all phases of the product lifecycle (development, proof of concept testing, product launch, and product iteration).   As part of this system I built a feature store pipeline thats been adopted by other predictive workflows in my team.   The product is on track to exceed 2023 revenue goals by 2x and adoption goals by 10x.
+In my first year I independently delivered a scalable, end-to-end ML system for ad targeting through all phases of the product lifecycle (development, proof of concept testing, product launch, and product iteration).   As part of this system I built a feature store pipeline thats been adopted by other predictive workflows in my team.   The product is on track to exceed 2023 revenue goals by 2x and adoption goals by 5x.
 
 ## Math Research
 
