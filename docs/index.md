@@ -1,7 +1,6 @@
 # Jeremy Lane
 
 - [Curriculum Vitae](cv.md)
-- [Contact Me](mailto:lane203j@gmail.com)
 
 ## About Me
 
