@@ -15,9 +15,11 @@ At Amazon I'm working on ad measurement solutions combining 1P and 3P datasets, 
 
 In my first year I independently delivered a scalable, end-to-end ML system for ad targeting through all phases of the product life-cycle (development, testing, product launch, and product iteration). In 2023 the product is on track to 2x its revenue goals and 5x its adoption goals.
 
-## Math Research
+## Mathematics
 
 My research in symplectic geometry focuses on connections between classical and quantum mechanics via geometric quantization.  I study classical commutative integrable systems that arise from non-commuting Hamiltonian Lie group actions. In this work I combine tools from geometry, topology, Lie theory, analysis, and representation theory.
+
+I've taught topics such as calculus, linear algebra, differential equations, graph theory and combinatorics, and scientific computing labs.
 
 
 ---
