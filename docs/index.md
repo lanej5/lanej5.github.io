@@ -17,7 +17,7 @@ In my first year I independently delivered a scalable, end-to-end ML system for 
 
 ## Mathematics
 
-My research in symplectic geometry focuses on connections between classical and quantum mechanics via geometric quantization.  I study classical commutative integrable systems that arise from non-commuting Hamiltonian Lie group actions. In this work I combine tools from geometry, topology, Lie theory, analysis, and representation theory.
+My research in symplectic geometry focuses on connections between classical and quantum mechanics via geometric quantization.  I study classical commutative integrable systems that arise from non-commuting Hamiltonian Lie group actions. In this work I combine tools from geometry, topology, Lie theory, analysis, and representation theory.  My papers have appeared in top journals such as the Journal of Symplectic Geometry and Advances in Mathematics.
 
 I've taught topics such as calculus, linear algebra, differential equations, graph theory and combinatorics, and scientific computing labs.
 
